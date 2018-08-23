@@ -6,9 +6,7 @@ import './rem/rem'
 import  'babel-polyfill'
 
 Vue.config.productionTip = true ;
-console.log(1)
-alert(100000)
-
+alert(100)
 /* eslint-disable no-new */
 new Vue({
   el: '#app',
