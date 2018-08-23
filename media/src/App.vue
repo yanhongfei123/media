@@ -23,7 +23,7 @@ export default {
 
 .router-fade-enter,
 .router-fade-leave-active {
-  opacity: 0.0001;
+  opacity: 0.0005;
 }
 
 </style>
